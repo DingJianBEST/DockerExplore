@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2r2EiF38J9G4FmxX8E08hlbvdi9mOiOoq4C9ZiohGPQ0XSJWpxrKeL667AmDX7Bfrsa/qKtX7gpygVvgoBl8Jw==",
+  "success": true,
+  "projectFilePath": "D:\\Docker\\docker-dotnet-sample\\src\\myWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JDing\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\JDing\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\JDing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\JDing\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
